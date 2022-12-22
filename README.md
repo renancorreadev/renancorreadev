@@ -1,4 +1,4 @@
-# Hi, I'm Renan 👨🏻💻 - @renancorreadev
+# Hi, I'm Renan 👨🏻💻 - FullStack Web3 & Vtex Developer
 
 <h4 align="center">
 
