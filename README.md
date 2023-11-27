@@ -13,7 +13,7 @@
 
 I am passionate about technology! I had my first contact with computers when I was 12 years old and since then I have been discovering a little more about this wonderful area, I like the opportunity that technology offers people and the proposal to make people's lives easier, I have the dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and expertise, I think that knowledge is something that everyone should have access to.
 
-I have knowledge in: Blockchain, Ethereum Development, Solidity, Test-driven Development with TDD, SOLIDS, Clean Architecture and Design Patterns, JavaScript, TypeScript, Node.js, AWS, Serverless, GraphQL, React, Gatsby, NextJS, NestJS, Vercel, Python, MongoDB, MySQL, HTML, CSS, GIT, Linux, VTEXIo, VTEX CMS and VTEX Fastore.
+I have knowledge in: Blockchain, Ethereum Development, Solidity, Test-driven Development with TDD, SOLIDS, Clean Architecture and Design Patterns, JavaScript, Go, TypeScript, Node.js, AWS, Serverless, GraphQL, React, Gatsby, NextJS, NestJS, Vercel, Python, MongoDB, MySQL, HTML, CSS, GIT, Linux, VTEXIo, VTEX CMS and VTEX Fastore.
 
 
 I created together with Omnes Blockchain team a Web3 community so that we can share a lot of knowledge and feed the blockchain education in Brazil and together improve our knowledge in web development involving all modern infrastructure. You can check more information at https://omnesblockchain.tech/.
