@@ -12,7 +12,16 @@
   <img src="https://shields.io/badge/foundry-0f121d?style=for-the-badge&logo=hyperledger&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyperledger_Firefly-v2.0.0-3C3C3D?style=for-the-badge&logoUrl=https%3A%2F%2Fimages.icon-icons.com%2F3912%2FPNG%2F512%2Fhyperledger_logo_icon_248057.png&logoWidth=40" />
   <img src="https://img.shields.io/badge/Besu-v24.12.0-3C3C3D?style=for-the-badge&logo=openjsfoundation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
+
 
 # Renan Correa GitHub Profile
 
