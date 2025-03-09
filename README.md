@@ -1,49 +1,76 @@
-# Hi, I'm Renan 👨🏻💻 - FullStack Web3 & Vtex Developer
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
+<img src="https://shields.io/badge/foundry-0f121d?style=for-the-badge&logo=hyperledger&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyperledger_Firefly-v2.0.0-3C3C3D?style=for-the-badge&logoUrl=https%3A%2F%2Fimages.icon-icons.com%2F3912%2FPNG%2F512%2Fhyperledger_logo_icon_248057.png&logoWidth=40" />
+<img src="https://img.shields.io/badge/Besu-v24.12.0-3C3C3D?style=for-the-badge&logo=openjsfoundation&logoColor=white" />
 
-<h4 align="center">
+# Renan Correa GitHub Profile
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/renancorreadev)](https://www.facebook.com/nanchelius)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/renancorreadev)](https://www.instagram.com/renancorreafc/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/renancorreadev)](https://www.linkedin.com/in/renancesardev/)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/skyxcriptodev)
+- Experienced Blockchain Engineer
+- Solidity Smart Contract Developer
+- Solana Smart Contract Programs Developer
+- Hyperledger Besu Certified
+- Hyperledger Firefly Enthusiast
+- Tokenization Specialist
+- Passionate about blockchain
 
-</h4>
+# [My Gists](https://gist.github.com/renancorreadev)
 
+<img src="https://gists-readme.yizack.com/api?user=renancorreadev" />
 
-I am passionate about technology! I had my first contact with computers when I was 12 years old and since then I have been discovering a little more about this wonderful area, I like the opportunity that technology offers people and the proposal to make people's lives easier, I have the dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and expertise, I think that knowledge is something that everyone should have access to.
+# Relevant Projects
 
-I have knowledge in: Blockchain, Ethereum Development, Solidity, Test-driven Development with TDD, SOLIDS, Clean Architecture and Design Patterns, JavaScript, Go, TypeScript, Node.js, AWS, Serverless, GraphQL, React, Gatsby, NextJS, NestJS, Vercel, Python, MongoDB, MySQL, HTML, CSS, GIT, Linux, VTEXIo, VTEX CMS and VTEX Fastore.
+- [BlockchainImob: A RWA Plataform in Blockchain](https://github.com/renancorreadev/blockchainImob)
+- [LoyaHub: A DREX plataform for tokenization of federal assets](https://github.com/renancorreadev/loyahub)
+- [Hyperledger Firefly](https://github.com/renancorreadev/hyperledger-firefly)
+- [Network Core in Rust for RWA Hub](https://github.com/RWAHub/network-core)
+- [EVM Smart Contract for RWA Hub](https://github.com/RWAHub/smart-contract)
 
+# Hackathon Achievements
 
-I created together with Omnes Blockchain team a Web3 community so that we can share a lot of knowledge and feed the blockchain education in Brazil and together improve our knowledge in web development involving all modern infrastructure. You can check more information at https://omnesblockchain.tech/.
+🏆 **Hackathons Won**
 
-## 🏆 Hackatons
+- **Hackathon Web3: Tokenization of Federal Assets**: [Detalhes do Hackathon](https://forum.celo.org/t/hacking-usd400bi-in-brazil-public-goods-how-celo-community-wrote-their-name-in-history/5188)
+- **BlockchainRIO**: [Site Oficial](https://blockchainrio.com.br/)
 
-I participated and won with my team two important Hackathons in Brazil, among them: BlockchainRIO and Patrimõnio da União (Government of São Paulo) 
+# Participation in Real-World Projects
 
-[Hackatoon GOV](https://www.enap.gov.br/pt/acontece/noticias/desafio-hackathon-web3-tokenizacao-do-patrimonio-da-uniao-anuncia-vencedores) | 
-[BlockChainInRio](https://www.blockchainrio.com.br/)
+## Blockchain Projects
 
+- **Lumx(Omnes blockchain)**: [Blockchain Enginner & Smart Contract](https://lumx.io/pt/)
+- **DREX Phase 1**: [Blockchain Enginner Phase I](https://www.ledgerinsights.com/drex-privacy/)
+- **DREX Phase 2**: [Blockchain Enginner Phase II](https://www.globalgovernmentfintech.com/brazil-central-bank-drex-phase-two-themes/)
+- **Music Pro**: [NFT Dashboard Collection & Crowdfunding](https://musicpro.live/)
+- **Mind of Pepe (MIND)**:[solana coin program](https://mindofpepe.com/)
+- **Genezys**: [Blockchain Infrasctruture Plataform (Blockchain Enginner)](https://genezys.io/)
+- **Tradyex**: [Cripto Tradding Plataform (Solana Developer)](https://tradyex.com/)
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at producer@skynance.net
+## VTEX E-commerce Projects
 
-The true soldier does not fight because he hates what is in front of him, but because he loves what is behind him. - G. K. Chesterton
+- **Jaked**: [Visit our website](https://www.jaked.com/ww/)
+- **Miriade**: [ Visit our website](https://www.miriade.com/en/)
+- **Carpisa**: [ Visit our website](http://carpisa.it/)
+- **Yamamay**: [ Visit our website](https://www.yamamay.com/it_en/)
+- **V73**: [ Visit our website](https://v73.it/)
 
-| ![](https://raw.githubusercontent.com/renancorreadev/renancorreadev/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)  | ![](https://raw.githubusercontent.com/renancorreadev/renancorreadev/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)  |
-|:---:|:---:|
-| ![](https://raw.githubusercontent.com/renancorreadev/renancorreadev/master/profile-summary-card-output/tokyonight/3-stats.svg)  | ![](https://raw.githubusercontent.com/renancorreadev/renancorreadev/master/profile-summary-card-output/tokyonight/4-productive-time.svg)  |
+## Activity
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-    
-![](https://raw.githubusercontent.com/renancorreadev/renancorreadev/master/profile-summary-card-output/tokyonight/0-profile-details.svg)
-    </td>
-  </tr>
-</table>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renancorreadev&theme=aura)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renancorreadev&theme=aura)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renancorreadev&theme=aura)
 
+# Connect
 
-
+<div>
+    <a href="https://www.linkedin.com/in/renancesardev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
